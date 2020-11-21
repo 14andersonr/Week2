@@ -1,0 +1,7 @@
+C:\Users\18144\Desktop\ElevenFiftyProjects\DotNetProjects\RJA3 Week 2 Challenges\RJA3 Week 2 Challenges\bin\Debug\RJA3 Week 2 Challenges.exe.config
+C:\Users\18144\Desktop\ElevenFiftyProjects\DotNetProjects\RJA3 Week 2 Challenges\RJA3 Week 2 Challenges\bin\Debug\RJA3 Week 2 Challenges.exe
+C:\Users\18144\Desktop\ElevenFiftyProjects\DotNetProjects\RJA3 Week 2 Challenges\RJA3 Week 2 Challenges\bin\Debug\RJA3 Week 2 Challenges.pdb
+C:\Users\18144\Desktop\ElevenFiftyProjects\DotNetProjects\RJA3 Week 2 Challenges\RJA3 Week 2 Challenges\obj\Debug\RJA3 Week 2 Challenges.csprojAssemblyReference.cache
+C:\Users\18144\Desktop\ElevenFiftyProjects\DotNetProjects\RJA3 Week 2 Challenges\RJA3 Week 2 Challenges\obj\Debug\RJA3 Week 2 Challenges.csproj.CoreCompileInputs.cache
+C:\Users\18144\Desktop\ElevenFiftyProjects\DotNetProjects\RJA3 Week 2 Challenges\RJA3 Week 2 Challenges\obj\Debug\RJA3 Week 2 Challenges.exe
+C:\Users\18144\Desktop\ElevenFiftyProjects\DotNetProjects\RJA3 Week 2 Challenges\RJA3 Week 2 Challenges\obj\Debug\RJA3 Week 2 Challenges.pdb
